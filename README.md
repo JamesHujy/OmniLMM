@@ -270,7 +270,7 @@ We combine the OmniLMM-12B and GPT-3.5 (text-only) into a **real-time multimodal
     <td>- </td>
   </tr>
   <tr>
-    <td nowrap="nowrap" align="left" ><b>OmniLMM-3B</b></td>
+    <td nowrap="nowrap" align="left" ><b>MiniCPM-V</b></td>
     <td align="right">3B </td>
     <td>64</td>
     <td>1452 </td>
